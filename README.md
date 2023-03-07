@@ -18,4 +18,5 @@ Website Figma -- https://www.figma.com/
 Edit this Readme.md by attach link of your figma design.
 
 Paste you Figma designe here : 
-
+https://www.figma.com/file/gtIoseR6R7gzg3CWKuLBxh/Exercise-Tracking?node-id=0%3A1&t=wKFci5nFjf1zHo99-1
+[Tracking Activity.pdf](https://github.com/genarationth/firstsprint-ArlifTagaree/files/10908198/Tracking.Activity.pdf)
